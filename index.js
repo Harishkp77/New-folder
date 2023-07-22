@@ -7,7 +7,8 @@ function myFunction(firstName,lastName,age,eyeColor){
       };
 
 function details(){
-    return ""
+    return "this.firstName";
+}
 }
 
-}
+
