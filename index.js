@@ -6,9 +6,4 @@ function myFunction(firstName,lastName,age,eyeColor){
         eyeColor: "blue"
       };
 
-function details(){
-    return "this.firstName";
 }
-}
-
-
